@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-18T14:13:40 IST" name="Suite" finished-at="2022-08-18T14:17:29 IST" duration-ms="229018">
+    <groups>
+    </groups>
+    <test started-at="2022-08-18T14:13:40 IST" name="Test" finished-at="2022-08-18T14:17:29 IST" duration-ms="229018">
+      <class name="bs.testcase.SearchBook_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.SearchBook_Test@62656be4]" started-at="2022-08-18T14:15:43 IST" name="setUp" finished-at="2022-08-18T14:15:47 IST" duration-ms="4054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySearchPageTest()[pri:1, instance:bs.testcase.SearchBook_Test@62656be4]" started-at="2022-08-18T14:15:47 IST" name="verifySearchPageTest" finished-at="2022-08-18T14:15:58 IST" duration-ms="10674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.SearchBook_Test@62656be4]" started-at="2022-08-18T14:15:58 IST" name="tearDown" finished-at="2022-08-18T14:15:58 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bs.testcase.SearchBook_Test -->
+      <class name="bs.testcase.Request_Book_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.Request_Book_Test@376a0d86]" started-at="2022-08-18T14:15:13 IST" name="setUp" finished-at="2022-08-18T14:15:17 IST" duration-ms="4130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Request_a_BookTest()[pri:1, instance:bs.testcase.Request_Book_Test@376a0d86]" started-at="2022-08-18T14:15:17 IST" name="Request_a_BookTest" finished-at="2022-08-18T14:15:29 IST" duration-ms="12193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Request_a_BookTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.Request_Book_Test@376a0d86]" started-at="2022-08-18T14:15:29 IST" name="tearDown" finished-at="2022-08-18T14:15:29 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.Request_Book_Test@376a0d86]" started-at="2022-08-18T14:15:29 IST" name="setUp" finished-at="2022-08-18T14:15:33 IST" duration-ms="3980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="it_shows_a_successful_message()[pri:2, instance:bs.testcase.Request_Book_Test@376a0d86]" started-at="2022-08-18T14:15:33 IST" name="it_shows_a_successful_message" finished-at="2022-08-18T14:15:43 IST" duration-ms="9398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it_shows_a_successful_message -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.Request_Book_Test@376a0d86]" started-at="2022-08-18T14:15:43 IST" name="tearDown" finished-at="2022-08-18T14:15:43 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bs.testcase.Request_Book_Test -->
+      <class name="bs.testcase.Add_Address_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.Add_Address_Test@38af9828]" started-at="2022-08-18T14:15:00 IST" name="setUp" finished-at="2022-08-18T14:15:04 IST" duration-ms="4229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="add_Address_Test(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:bs.testcase.Add_Address_Test@38af9828]" started-at="2022-08-18T14:15:04 IST" name="add_Address_Test" data-provider="getLoginTestData" finished-at="2022-08-18T14:15:07 IST" duration-ms="3254" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vaibhav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[At Post Agar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Akola]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_Address_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.Add_Address_Test@38af9828]" started-at="2022-08-18T14:15:07 IST" name="tearDown" finished-at="2022-08-18T14:15:13 IST" duration-ms="5268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bs.testcase.Add_Address_Test -->
+      <class name="bs.testcase.ChangePassword_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.ChangePassword_Test@53f3bdbd]" started-at="2022-08-18T14:17:16 IST" name="setUp" finished-at="2022-08-18T14:17:20 IST" duration-ms="3836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="request_a_bookTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:bs.testcase.ChangePassword_Test@53f3bdbd]" started-at="2022-08-18T14:17:20 IST" name="request_a_bookTest" data-provider="getLoginTestData" finished-at="2022-08-18T14:17:24 IST" duration-ms="4202" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vaibhav1@]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vaibhav4@]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Vaibhav4@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- request_a_bookTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.ChangePassword_Test@53f3bdbd]" started-at="2022-08-18T14:17:24 IST" name="tearDown" finished-at="2022-08-18T14:17:29 IST" duration-ms="5285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bs.testcase.ChangePassword_Test -->
+      <class name="bs.testcase.WishList_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:15:58 IST" name="setUp" finished-at="2022-08-18T14:16:03 IST" duration-ms="5291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="feature_authTest()[pri:1, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:16:03 IST" name="feature_authTest" finished-at="2022-08-18T14:16:11 IST" duration-ms="8255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature_authTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:16:11 IST" name="tearDown" finished-at="2022-08-18T14:16:17 IST" duration-ms="5253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:16:17 IST" name="setUp" finished-at="2022-08-18T14:16:21 IST" duration-ms="4302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="search_BookNameTest()[pri:2, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:16:21 IST" name="search_BookNameTest" finished-at="2022-08-18T14:16:26 IST" duration-ms="5378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_BookNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:16:26 IST" name="tearDown" finished-at="2022-08-18T14:16:32 IST" duration-ms="5253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:16:32 IST" name="setUp" finished-at="2022-08-18T14:16:36 IST" duration-ms="4473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addWishlist_AuthorNameTest()[pri:3, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:16:36 IST" name="addWishlist_AuthorNameTest" finished-at="2022-08-18T14:16:44 IST" duration-ms="7422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addWishlist_AuthorNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:16:44 IST" name="tearDown" finished-at="2022-08-18T14:16:49 IST" duration-ms="5253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:16:49 IST" name="setUp" finished-at="2022-08-18T14:16:53 IST" duration-ms="4045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addWishlist_PublisherTest()[pri:4, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:16:53 IST" name="addWishlist_PublisherTest" finished-at="2022-08-18T14:16:58 IST" duration-ms="5456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addWishlist_PublisherTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:16:58 IST" name="tearDown" finished-at="2022-08-18T14:17:04 IST" duration-ms="5254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:17:04 IST" name="setUp" finished-at="2022-08-18T14:17:08 IST" duration-ms="4171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="wishlist_Test()[pri:5, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:17:08 IST" name="wishlist_Test" finished-at="2022-08-18T14:17:10 IST" duration-ms="2604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlist_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.WishList_Test@17d919b6]" started-at="2022-08-18T14:17:10 IST" name="tearDown" finished-at="2022-08-18T14:17:16 IST" duration-ms="5262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bs.testcase.WishList_Test -->
+      <class name="bs.testcase.HomePage_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.HomePage_Test@4149c063]" started-at="2022-08-18T14:14:37 IST" name="setUp" finished-at="2022-08-18T14:14:41 IST" duration-ms="3921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageTitleTest()[pri:1, instance:bs.testcase.HomePage_Test@4149c063]" started-at="2022-08-18T14:14:41 IST" name="HomePageTitleTest" finished-at="2022-08-18T14:14:43 IST" duration-ms="2037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.HomePage_Test@4149c063]" started-at="2022-08-18T14:14:43 IST" name="tearDown" finished-at="2022-08-18T14:14:44 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.HomePage_Test@4149c063]" started-at="2022-08-18T14:14:44 IST" name="setUp" finished-at="2022-08-18T14:14:48 IST" duration-ms="3921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserNameTest()[pri:2, instance:bs.testcase.HomePage_Test@4149c063]" started-at="2022-08-18T14:14:48 IST" name="verifyUserNameTest" finished-at="2022-08-18T14:14:48 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.HomePage_Test@4149c063]" started-at="2022-08-18T14:14:48 IST" name="tearDown" finished-at="2022-08-18T14:14:48 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.HomePage_Test@4149c063]" started-at="2022-08-18T14:14:48 IST" name="setUp" finished-at="2022-08-18T14:14:52 IST" duration-ms="3640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyClickOnLogout()[pri:3, instance:bs.testcase.HomePage_Test@4149c063]" started-at="2022-08-18T14:14:52 IST" name="verifyClickOnLogout" finished-at="2022-08-18T14:15:00 IST" duration-ms="7993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnLogout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.HomePage_Test@4149c063]" started-at="2022-08-18T14:15:00 IST" name="tearDown" finished-at="2022-08-18T14:15:00 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bs.testcase.HomePage_Test -->
+      <class name="bs.testcase.LoginPage_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:13:40 IST" name="setUp" finished-at="2022-08-18T14:13:45 IST" duration-ms="5103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:13:45 IST" name="loginPageTitleTest" finished-at="2022-08-18T14:13:45 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:13:45 IST" name="tearDown" finished-at="2022-08-18T14:13:51 IST" duration-ms="5207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:13:51 IST" name="setUp" finished-at="2022-08-18T14:13:54 IST" duration-ms="3069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ImageTest()[pri:2, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:13:54 IST" name="ImageTest" finished-at="2022-08-18T14:13:54 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:13:54 IST" name="tearDown" finished-at="2022-08-18T14:13:59 IST" duration-ms="5260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:13:59 IST" name="setUp" finished-at="2022-08-18T14:14:02 IST" duration-ms="3134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:14:02 IST" name="loginTest" finished-at="2022-08-18T14:14:03 IST" duration-ms="995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:14:03 IST" name="tearDown" finished-at="2022-08-18T14:14:08 IST" duration-ms="5268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:14:09 IST" name="setUp" finished-at="2022-08-18T14:14:13 IST" duration-ms="3371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="MultipleUserLoginTest(java.lang.String,java.lang.String)[pri:4, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:14:13 IST" name="MultipleUserLoginTest" data-provider="getLoginTestData" finished-at="2022-08-18T14:14:14 IST" duration-ms="1023" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[VaibhavBohari@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vaibhav1@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleUserLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:14:14 IST" name="tearDown" finished-at="2022-08-18T14:14:19 IST" duration-ms="5311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:14:19 IST" name="setUp" finished-at="2022-08-18T14:14:22 IST" duration-ms="3252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="MultipleUserLoginTest(java.lang.String,java.lang.String)[pri:4, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:14:22 IST" name="MultipleUserLoginTest" data-provider="getLoginTestData" finished-at="2022-08-18T14:14:23 IST" duration-ms="783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shubham45@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shubham1@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleUserLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:14:23 IST" name="tearDown" finished-at="2022-08-18T14:14:28 IST" duration-ms="5257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:14:28 IST" name="setUp" finished-at="2022-08-18T14:14:32 IST" duration-ms="3322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="MultipleUserLoginTest(java.lang.String,java.lang.String)[pri:4, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:14:32 IST" name="MultipleUserLoginTest" data-provider="getLoginTestData" finished-at="2022-08-18T14:14:32 IST" duration-ms="660" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sumit@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sumit@5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleUserLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.testcase.LoginPage_Test@503f91c3]" started-at="2022-08-18T14:14:32 IST" name="tearDown" finished-at="2022-08-18T14:14:37 IST" duration-ms="5254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bs.testcase.LoginPage_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

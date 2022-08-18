@@ -1,0 +1,317 @@
+2022-08-14 14:51:59 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-14 14:52:06 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-14 14:52:06 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-14 14:52:06 INFO  HomePage_Test:36 - ****** starting test case ******
+  2022-08-14 14:52:06 INFO  HomePage_Test:37 - Opening Home Page
+  2022-08-14 14:52:08 INFO  HomePage_Test:41 - Title Verified Successfully.....
+  2022-08-14 14:52:09 INFO  HomePage_Test:67 - browser is closed
+  2022-08-14 14:52:09 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-14 14:52:13 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-14 14:52:13 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-14 14:52:13 INFO  HomePage_Test:47 - ****** starting test case ******
+  2022-08-14 14:52:13 INFO  HomePage_Test:48 - ******* verifyUserNameTest ******
+  2022-08-14 14:52:13 INFO  HomePage_Test:52 - UserName Verified Successfully.....
+  2022-08-14 14:52:13 INFO  HomePage_Test:67 - browser is closed
+  2022-08-14 14:52:13 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-14 14:52:17 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-14 14:52:17 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-14 14:52:17 INFO  HomePage_Test:57 - ****** starting test case ******
+  2022-08-14 14:52:17 INFO  HomePage_Test:58 - ******* verifyClickOnLogout ******
+  2022-08-14 14:52:25 INFO  HomePage_Test:67 - browser is closed
+  2022-08-14 15:20:02 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:20:13 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:20:13 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:20:22 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:20:22 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:20:25 INFO  LoginPage_Test:57 - LoginTest Method Runing...
+  2022-08-14 15:20:26 INFO  LoginPage_Test:59 - login successful with username and Password
+  2022-08-14 15:20:32 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:20:32 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:20:35 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-14 15:20:42 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:20:42 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:20:45 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-14 15:20:50 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:20:50 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:20:53 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-14 15:21:00 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:21:00 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-14 15:21:04 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-14 15:21:04 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-14 15:21:04 INFO  HomePage_Test:36 - ****** starting test case ******
+  2022-08-14 15:21:04 INFO  HomePage_Test:37 - Opening Home Page
+  2022-08-14 15:21:07 INFO  HomePage_Test:41 - Title Verified Successfully.....
+  2022-08-14 15:21:07 INFO  HomePage_Test:67 - browser is closed
+  2022-08-14 15:21:07 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-14 15:21:14 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-14 15:21:14 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-14 15:21:14 INFO  HomePage_Test:47 - ****** starting test case ******
+  2022-08-14 15:21:14 INFO  HomePage_Test:48 - ******* verifyUserNameTest ******
+  2022-08-14 15:21:14 INFO  HomePage_Test:52 - UserName Verified Successfully.....
+  2022-08-14 15:21:14 INFO  HomePage_Test:67 - browser is closed
+  2022-08-14 15:21:14 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-14 15:21:18 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-14 15:21:18 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-14 15:21:18 INFO  HomePage_Test:57 - ****** starting test case ******
+  2022-08-14 15:21:18 INFO  HomePage_Test:58 - ******* verifyClickOnLogout ******
+  2022-08-14 15:21:27 INFO  HomePage_Test:67 - browser is closed
+  2022-08-14 15:21:27 INFO  Add_Address_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:21:40 INFO  Add_Address_Test:68 - browser is closed
+  2022-08-14 15:21:40 INFO  Request_Book_Test:26 - ******** Starting test cases execution  *********
+  2022-08-14 15:21:44 INFO  Request_Book_Test:35 - user request the book Method Runing...
+  2022-08-14 15:21:57 INFO  Request_Book_Test:53 - browser is closed
+  2022-08-14 15:21:57 INFO  Request_Book_Test:26 - ******** Starting test cases execution  *********
+  2022-08-14 15:22:13 INFO  Request_Book_Test:53 - browser is closed
+  2022-08-14 15:22:13 INFO  SearchBook_Test:28 - ******** Starting test cases execution  *********
+  2022-08-14 15:22:28 INFO  SearchBook_Test:40 - Verify Successfully Search Feature
+  2022-08-14 15:22:29 INFO  SearchBook_Test:46 - browser is closed
+  2022-08-14 15:22:29 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-14 15:22:33 INFO  WishList_Test:39 - Feature Author Method Runing...
+  2022-08-14 15:22:48 INFO  WishList_Test:83 - browser is closed
+  2022-08-14 15:22:48 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-14 15:22:53 INFO  WishList_Test:48 - Search by book name Method Runing...
+  2022-08-14 15:23:04 INFO  WishList_Test:83 - browser is closed
+  2022-08-14 15:23:04 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-14 15:23:09 INFO  WishList_Test:57 - Search by Author name Method Runing...
+  2022-08-14 15:23:23 INFO  WishList_Test:83 - browser is closed
+  2022-08-14 15:23:23 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-14 15:23:27 INFO  WishList_Test:66 - Search by Publisher Method Runing...
+  2022-08-14 15:23:38 INFO  WishList_Test:83 - browser is closed
+  2022-08-14 15:23:38 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-14 15:23:43 INFO  WishList_Test:75 - Wishlist Method Runing...
+  2022-08-14 15:23:51 INFO  WishList_Test:83 - browser is closed
+  2022-08-14 15:45:45 INFO  Add_Address_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:46:03 INFO  Add_Address_Test:64 - browser is closed
+  2022-08-14 15:46:58 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:47:09 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:47:09 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:47:18 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:47:18 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:47:21 INFO  LoginPage_Test:57 - LoginTest Method Runing...
+  2022-08-14 15:47:22 INFO  LoginPage_Test:59 - login successful with username and Password
+  2022-08-14 15:47:27 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:47:28 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:47:31 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-14 15:47:38 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:47:38 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:47:41 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-14 15:47:48 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:47:48 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:47:51 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-14 15:47:57 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-14 15:47:57 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-14 15:48:03 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-14 15:48:03 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-14 15:48:03 INFO  HomePage_Test:36 - ****** starting test case ******
+  2022-08-14 15:48:03 INFO  HomePage_Test:37 - Opening Home Page
+  2022-08-14 15:48:06 INFO  HomePage_Test:41 - Title Verified Successfully.....
+  2022-08-14 15:48:06 INFO  HomePage_Test:67 - browser is closed
+  2022-08-14 15:48:06 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-14 15:48:11 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-14 15:48:11 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-14 15:48:11 INFO  HomePage_Test:47 - ****** starting test case ******
+  2022-08-14 15:48:11 INFO  HomePage_Test:48 - ******* verifyUserNameTest ******
+  2022-08-14 15:48:11 INFO  HomePage_Test:52 - UserName Verified Successfully.....
+  2022-08-14 15:48:12 INFO  HomePage_Test:67 - browser is closed
+  2022-08-14 15:48:12 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-14 15:48:17 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-14 15:48:17 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-14 15:48:17 INFO  HomePage_Test:57 - ****** starting test case ******
+  2022-08-14 15:48:17 INFO  HomePage_Test:58 - ******* verifyClickOnLogout ******
+  2022-08-14 15:48:26 INFO  HomePage_Test:67 - browser is closed
+  2022-08-14 15:48:26 INFO  Add_Address_Test:37 - ******** Starting test cases execution  *********
+  2022-08-14 15:48:39 INFO  Add_Address_Test:64 - browser is closed
+  2022-08-14 15:48:39 INFO  Request_Book_Test:26 - ******** Starting test cases execution  *********
+  2022-08-14 15:48:43 INFO  Request_Book_Test:35 - user request the book Method Runing...
+  2022-08-14 15:48:58 INFO  Request_Book_Test:53 - browser is closed
+  2022-08-14 15:48:58 INFO  Request_Book_Test:26 - ******** Starting test cases execution  *********
+  2022-08-14 15:49:17 INFO  Request_Book_Test:53 - browser is closed
+  2022-08-14 15:49:17 INFO  SearchBook_Test:28 - ******** Starting test cases execution  *********
+  2022-08-14 15:49:33 INFO  SearchBook_Test:40 - Verify Successfully Search Feature
+  2022-08-14 15:49:34 INFO  SearchBook_Test:46 - browser is closed
+  2022-08-14 15:49:34 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-14 15:49:38 INFO  WishList_Test:39 - Feature Author Method Runing...
+  2022-08-14 15:49:55 INFO  WishList_Test:83 - browser is closed
+  2022-08-14 15:49:55 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-14 15:50:00 INFO  WishList_Test:48 - Search by book name Method Runing...
+  2022-08-14 15:50:12 INFO  WishList_Test:83 - browser is closed
+  2022-08-14 15:50:12 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-14 15:50:17 INFO  WishList_Test:57 - Search by Author name Method Runing...
+  2022-08-14 15:50:30 INFO  WishList_Test:83 - browser is closed
+  2022-08-14 15:50:30 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-14 15:50:35 INFO  WishList_Test:66 - Search by Publisher Method Runing...
+  2022-08-14 15:50:47 INFO  WishList_Test:83 - browser is closed
+  2022-08-14 15:50:47 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-14 15:50:51 INFO  WishList_Test:75 - Wishlist Method Runing...
+  2022-08-14 15:51:00 INFO  WishList_Test:83 - browser is closed
+  2022-08-14 15:51:01 INFO  ChangePassword_Test:34 - ******** Starting test cases execution  *********
+  2022-08-14 15:51:15 INFO  ChangePassword_Test:66 - browser is closed
+  2022-08-18 13:29:18 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:29:33 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:29:33 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:29:45 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:29:45 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:29:50 INFO  LoginPage_Test:57 - LoginTest Method Runing...
+  2022-08-18 13:29:58 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:29:59 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:30:03 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 13:30:10 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:30:10 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:30:13 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 13:30:20 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:30:20 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:30:22 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 13:30:29 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:30:29 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-18 13:30:33 INFO  Add_Address_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:30:38 INFO  Request_Book_Test:26 - ******** Starting test cases execution  *********
+  2022-08-18 13:30:44 INFO  SearchBook_Test:28 - ******** Starting test cases execution  *********
+  2022-08-18 13:30:50 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-18 13:31:03 INFO  ChangePassword_Test:34 - ******** Starting test cases execution  *********
+  2022-08-18 13:34:01 INFO  Add_Address_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:35:03 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:35:07 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 13:35:14 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:35:14 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:35:17 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 13:35:24 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:35:24 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:35:27 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 13:35:33 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:37:39 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:37:50 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:38:39 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:38:49 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:38:49 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:38:58 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:38:58 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:39:36 INFO  LoginPage_Test:57 - LoginTest Method Runing...
+  2022-08-18 13:39:45 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:39:45 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:43:25 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:43:38 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:43:38 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:43:47 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:43:47 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:43:51 INFO  LoginPage_Test:57 - LoginTest Method Runing...
+  2022-08-18 13:43:59 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:43:59 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:44:03 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 13:44:09 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:44:09 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:44:13 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 13:44:19 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:44:19 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:44:23 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 13:44:29 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:46:02 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:46:08 INFO  LoginPage_Test:57 - LoginTest Method Runing...
+  2022-08-18 13:46:15 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:48:02 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:48:08 INFO  LoginPage_Test:57 - LoginTest Method Runing...
+  2022-08-18 13:48:15 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 13:54:18 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 13:54:23 INFO  LoginPage_Test:57 - LoginTest Method Runing...
+  2022-08-18 13:54:31 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:02:02 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:03:23 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:04:21 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:04:32 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:05:29 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:05:40 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:05:40 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:05:51 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:05:51 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:05:54 INFO  LoginPage_Test:57 - LoginTest Method Runing...
+  2022-08-18 14:06:01 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:06:02 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:06:04 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 14:06:11 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:06:11 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:06:14 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 14:06:21 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:06:21 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:06:24 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 14:06:31 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:10:26 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:10:37 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:10:49 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:10:59 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:11:06 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:11:11 INFO  LoginPage_Test:57 - LoginTest Method Runing...
+  2022-08-18 14:11:12 INFO  LoginPage_Test:59 - login successful with username and Password
+  2022-08-18 14:11:17 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:11:31 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:11:37 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 14:11:43 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:11:43 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:11:46 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 14:11:53 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:11:53 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:11:56 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 14:12:02 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:13:40 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:13:51 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:13:51 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:13:59 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:13:59 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:14:02 INFO  LoginPage_Test:57 - LoginTest Method Runing...
+  2022-08-18 14:14:03 INFO  LoginPage_Test:59 - login successful with username and Password
+  2022-08-18 14:14:08 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:14:09 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:14:13 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 14:14:19 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:14:19 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:14:22 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 14:14:28 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:14:28 INFO  LoginPage_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:14:32 INFO  LoginPage_Test:70 - Multiple user login Method Runing...
+  2022-08-18 14:14:37 INFO  LoginPage_Test:80 - browser is closed
+  2022-08-18 14:14:37 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-18 14:14:41 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-18 14:14:41 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-18 14:14:41 INFO  HomePage_Test:36 - ****** starting test case ******
+  2022-08-18 14:14:41 INFO  HomePage_Test:37 - Opening Home Page
+  2022-08-18 14:14:43 INFO  HomePage_Test:41 - Title Verified Successfully.....
+  2022-08-18 14:14:44 INFO  HomePage_Test:67 - browser is closed
+  2022-08-18 14:14:44 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-18 14:14:48 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-18 14:14:48 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-18 14:14:48 INFO  HomePage_Test:47 - ****** starting test case ******
+  2022-08-18 14:14:48 INFO  HomePage_Test:48 - ******* verifyUserNameTest ******
+  2022-08-18 14:14:48 INFO  HomePage_Test:52 - UserName Verified Successfully.....
+  2022-08-18 14:14:48 INFO  HomePage_Test:67 - browser is closed
+  2022-08-18 14:14:48 INFO  HomePage_Test:26 - ****** Starting test cases execution  *******
+  2022-08-18 14:14:52 INFO  HomePage_Test:30 - ************Login the Application**********************
+  2022-08-18 14:14:52 INFO  HomePage_Test:31 - Open Home Page
+  2022-08-18 14:14:52 INFO  HomePage_Test:57 - ****** starting test case ******
+  2022-08-18 14:14:52 INFO  HomePage_Test:58 - ******* verifyClickOnLogout ******
+  2022-08-18 14:15:00 INFO  HomePage_Test:67 - browser is closed
+  2022-08-18 14:15:00 INFO  Add_Address_Test:37 - ******** Starting test cases execution  *********
+  2022-08-18 14:15:13 INFO  Add_Address_Test:64 - browser is closed
+  2022-08-18 14:15:13 INFO  Request_Book_Test:26 - ******** Starting test cases execution  *********
+  2022-08-18 14:15:17 INFO  Request_Book_Test:35 - user request the book Method Runing...
+  2022-08-18 14:15:29 INFO  Request_Book_Test:53 - browser is closed
+  2022-08-18 14:15:29 INFO  Request_Book_Test:26 - ******** Starting test cases execution  *********
+  2022-08-18 14:15:43 INFO  Request_Book_Test:53 - browser is closed
+  2022-08-18 14:15:43 INFO  SearchBook_Test:28 - ******** Starting test cases execution  *********
+  2022-08-18 14:15:58 INFO  SearchBook_Test:40 - Verify Successfully Search Feature
+  2022-08-18 14:15:58 INFO  SearchBook_Test:46 - browser is closed
+  2022-08-18 14:15:58 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-18 14:16:03 INFO  WishList_Test:39 - Feature Author Method Runing...
+  2022-08-18 14:16:17 INFO  WishList_Test:83 - browser is closed
+  2022-08-18 14:16:17 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-18 14:16:21 INFO  WishList_Test:48 - Search by book name Method Runing...
+  2022-08-18 14:16:32 INFO  WishList_Test:83 - browser is closed
+  2022-08-18 14:16:32 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-18 14:16:36 INFO  WishList_Test:57 - Search by Author name Method Runing...
+  2022-08-18 14:16:49 INFO  WishList_Test:83 - browser is closed
+  2022-08-18 14:16:49 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-18 14:16:53 INFO  WishList_Test:66 - Search by Publisher Method Runing...
+  2022-08-18 14:17:04 INFO  WishList_Test:83 - browser is closed
+  2022-08-18 14:17:04 INFO  WishList_Test:30 - ******** Starting test cases execution  *********
+  2022-08-18 14:17:08 INFO  WishList_Test:75 - Wishlist Method Runing...
+  2022-08-18 14:17:16 INFO  WishList_Test:83 - browser is closed
+  2022-08-18 14:17:16 INFO  ChangePassword_Test:34 - ******** Starting test cases execution  *********
+  2022-08-18 14:17:29 INFO  ChangePassword_Test:66 - browser is closed
+  

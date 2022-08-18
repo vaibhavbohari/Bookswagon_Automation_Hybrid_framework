@@ -1,0 +1,174 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>19/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Aug 18 14:13:40 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>229 seconds (229018 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='bs.testcase.LoginPage_Test.MultipleUserLoginTest()'><b>MultipleUserLoginTest</b><br>Test class: bs.testcase.LoginPage_Test<br>Parameters: VaibhavBohari@gmail.com, Vaibhav1@</td>
+<td></td>
+<td>1</td>
+<td>bs.testcase.LoginPage_Test@503f91c3</td></tr>
+<tr>
+<td title='bs.testcase.Add_Address_Test.add_Address_Test()'><b>add_Address_Test</b><br>Test class: bs.testcase.Add_Address_Test<br>Parameters: Vaibhav, At Post Agar, India, Maharashtra, Akola</td>
+<td></td>
+<td>3</td>
+<td>bs.testcase.Add_Address_Test@38af9828</td></tr>
+<tr>
+<td title='bs.testcase.LoginPage_Test.loginTest()'><b>loginTest</b><br>Test class: bs.testcase.LoginPage_Test</td>
+<td></td>
+<td>0</td>
+<td>bs.testcase.LoginPage_Test@503f91c3</td></tr>
+<tr>
+<td title='bs.testcase.WishList_Test.search_BookNameTest()'><b>search_BookNameTest</b><br>Test class: bs.testcase.WishList_Test</td>
+<td></td>
+<td>5</td>
+<td>bs.testcase.WishList_Test@17d919b6</td></tr>
+<tr>
+<td title='bs.testcase.HomePage_Test.HomePageTitleTest()'><b>HomePageTitleTest</b><br>Test class: bs.testcase.HomePage_Test</td>
+<td></td>
+<td>2</td>
+<td>bs.testcase.HomePage_Test@4149c063</td></tr>
+<tr>
+<td title='bs.testcase.WishList_Test.wishlist_Test()'><b>wishlist_Test</b><br>Test class: bs.testcase.WishList_Test</td>
+<td></td>
+<td>2</td>
+<td>bs.testcase.WishList_Test@17d919b6</td></tr>
+<tr>
+<td title='bs.testcase.LoginPage_Test.ImageTest()'><b>ImageTest</b><br>Test class: bs.testcase.LoginPage_Test</td>
+<td></td>
+<td>0</td>
+<td>bs.testcase.LoginPage_Test@503f91c3</td></tr>
+<tr>
+<td title='bs.testcase.HomePage_Test.verifyClickOnLogout()'><b>verifyClickOnLogout</b><br>Test class: bs.testcase.HomePage_Test</td>
+<td></td>
+<td>7</td>
+<td>bs.testcase.HomePage_Test@4149c063</td></tr>
+<tr>
+<td title='bs.testcase.ChangePassword_Test.request_a_bookTest()'><b>request_a_bookTest</b><br>Test class: bs.testcase.ChangePassword_Test<br>Parameters: Vaibhav1@, Vaibhav4@, Vaibhav4@</td>
+<td></td>
+<td>4</td>
+<td>bs.testcase.ChangePassword_Test@53f3bdbd</td></tr>
+<tr>
+<td title='bs.testcase.Request_Book_Test.it_shows_a_successful_message()'><b>it_shows_a_successful_message</b><br>Test class: bs.testcase.Request_Book_Test</td>
+<td></td>
+<td>9</td>
+<td>bs.testcase.Request_Book_Test@376a0d86</td></tr>
+<tr>
+<td title='bs.testcase.WishList_Test.addWishlist_PublisherTest()'><b>addWishlist_PublisherTest</b><br>Test class: bs.testcase.WishList_Test</td>
+<td></td>
+<td>5</td>
+<td>bs.testcase.WishList_Test@17d919b6</td></tr>
+<tr>
+<td title='bs.testcase.LoginPage_Test.loginPageTitleTest()'><b>loginPageTitleTest</b><br>Test class: bs.testcase.LoginPage_Test</td>
+<td></td>
+<td>0</td>
+<td>bs.testcase.LoginPage_Test@503f91c3</td></tr>
+<tr>
+<td title='bs.testcase.Request_Book_Test.Request_a_BookTest()'><b>Request_a_BookTest</b><br>Test class: bs.testcase.Request_Book_Test</td>
+<td></td>
+<td>12</td>
+<td>bs.testcase.Request_Book_Test@376a0d86</td></tr>
+<tr>
+<td title='bs.testcase.LoginPage_Test.MultipleUserLoginTest()'><b>MultipleUserLoginTest</b><br>Test class: bs.testcase.LoginPage_Test<br>Parameters: Shubham45@gmail.com, Shubham1@</td>
+<td></td>
+<td>0</td>
+<td>bs.testcase.LoginPage_Test@503f91c3</td></tr>
+<tr>
+<td title='bs.testcase.HomePage_Test.verifyUserNameTest()'><b>verifyUserNameTest</b><br>Test class: bs.testcase.HomePage_Test</td>
+<td></td>
+<td>0</td>
+<td>bs.testcase.HomePage_Test@4149c063</td></tr>
+<tr>
+<td title='bs.testcase.WishList_Test.feature_authTest()'><b>feature_authTest</b><br>Test class: bs.testcase.WishList_Test</td>
+<td></td>
+<td>8</td>
+<td>bs.testcase.WishList_Test@17d919b6</td></tr>
+<tr>
+<td title='bs.testcase.WishList_Test.addWishlist_AuthorNameTest()'><b>addWishlist_AuthorNameTest</b><br>Test class: bs.testcase.WishList_Test</td>
+<td></td>
+<td>7</td>
+<td>bs.testcase.WishList_Test@17d919b6</td></tr>
+<tr>
+<td title='bs.testcase.LoginPage_Test.MultipleUserLoginTest()'><b>MultipleUserLoginTest</b><br>Test class: bs.testcase.LoginPage_Test<br>Parameters: Sumit@gmail.com, Sumit@5</td>
+<td></td>
+<td>0</td>
+<td>bs.testcase.LoginPage_Test@503f91c3</td></tr>
+<tr>
+<td title='bs.testcase.SearchBook_Test.verifySearchPageTest()'><b>verifySearchPageTest</b><br>Test class: bs.testcase.SearchBook_Test</td>
+<td></td>
+<td>10</td>
+<td>bs.testcase.SearchBook_Test@62656be4</td></tr>
+</table><p>
+</body>
+</html>
